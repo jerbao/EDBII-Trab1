@@ -24,7 +24,7 @@ O programa implementa todas as funcionalidades obrigatórias para ambas as árvo
 
 Para compilar e executar este projeto, você precisará apenas de:
 
-* Um compilador C++ com suporte ao padrão C++11 (ou superior). Exemplos: `g++` ou `clang++`.
+* Um compilador C++ com suporte ao padrão C++. Exemplos: `g++` ou `clang++`.
 
 Nenhuma biblioteca externa é necessária.
 
